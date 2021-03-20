@@ -1,6 +1,4 @@
----
-title: "Reproducible Research: Peer Assessment 1"
----
+## "Reproducible Research: Peer Assessment 1"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
